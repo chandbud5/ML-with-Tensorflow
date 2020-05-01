@@ -9,7 +9,7 @@ Steps to setup tensorflow -
 * Check the yml file and change the versions if you want to (make sure they are compatible with others)
 * Inside anaconda prompt type the following command
 * **conda env create -v -f tensorflow.yml**
-* The above command will create a virtual environment named **tensorflow** and it will install all dependencies metioned in YML file
+* The above command will create a virtual environment named **tensorflow** and it will install all dependencies metioned in YML file, inside this environment.
 * To activate the environment use **conda activate tensorflow**
 
 
