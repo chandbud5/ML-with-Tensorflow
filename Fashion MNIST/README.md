@@ -5,3 +5,5 @@ Programs included in this -
 * Convolution Neural network
 * Callback
 * Filters
+
+**NOTE - DO NOT FORGET TO EXTRACT *train_images.zip* file**
