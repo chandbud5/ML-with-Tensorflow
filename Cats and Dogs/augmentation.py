@@ -29,7 +29,7 @@ model = tf.keras.models.Sequential([
 
 model.summary()
 
-model.compile(optimizer=tf.optimizers.RMSprop(lr=0.01),
+model.compile(optimizer=tf.optimizers.RMSprop(lr=0.0001),
               loss='binary_crossentropy',
               metrics=['accuracy'])
 
