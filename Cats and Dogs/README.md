@@ -11,8 +11,6 @@ model which uses ImageDataGenerator for Augmentation and Convolutional Neural Ne
 <div id="banner">
     <div class="inline-block">
         <img src="https://github.com/chandbud5/ML-with-Tensorflow/blob/master/Cats%20and%20Dogs/Before_Aug_Acc-v-epo.png" width="400">
-    </div>
-    <div class="inline-block">
         <img src="https://github.com/chandbud5/ML-with-Tensorflow/blob/master/Cats%20and%20Dogs/Before_Aug_loss-v-epo.png" width="400">
     </div>
 </div>
@@ -22,8 +20,6 @@ model which uses ImageDataGenerator for Augmentation and Convolutional Neural Ne
 <div id="banner">
     <div class="inline-block">
         <img src="https://github.com/chandbud5/ML-with-Tensorflow/blob/master/Cats%20and%20Dogs/Acc-v-Epochs.png" width="400">
-    </div>
-    <div class="inline-block">
         <img src="https://github.com/chandbud5/ML-with-Tensorflow/blob/master/Cats%20and%20Dogs/Loss-v-Epochs.png" width="400">
     </div>
 </div>
