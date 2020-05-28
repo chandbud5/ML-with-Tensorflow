@@ -13,4 +13,4 @@ Steps to setup tensorflow -
 * To activate the environment use **conda activate tensorflow**
 
 
-### Visit my Portfolio at 👉👉 [CLICK HERE](https://chandbud.me)
+### Visit my Blogs at 👉👉 [CLICK HERE](https://chandbud.me)
